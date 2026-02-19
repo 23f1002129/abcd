@@ -4,6 +4,7 @@
     "version": "c3e7d890"
   },
   "products": [
+    { "id": "prod-c3e7d890-001", "name": "Validation Test Product", "category": "test", "price": 0.0, "stock": 0, "rating": 0.0 },
     { "id": 1, "name": "Smartphone X", "category": "electronics", "price": 699.99, "stock": 120, "rating": 4.5 },
     { "id": 2, "name": "Laptop Pro", "category": "electronics", "price": 1299.50, "stock": 50, "rating": 4.7 },
     { "id": 3, "name": "Wireless Earbuds", "category": "electronics", "price": 149.99, "stock": 200, "rating": 4.3 },
