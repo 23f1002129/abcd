@@ -4,25 +4,127 @@
     "version": "c3e7d890"
   },
   "products": [
-    { "id": "prod-c3e7d890-001", "name": "Validation Test Product", "category": "test", "price": 0.0, "stock": 0, "rating": 0.0 },
-    { "id": 1, "name": "Smartphone X", "category": "electronics", "price": 699.99, "stock": 120, "rating": 4.5 },
-    { "id": 2, "name": "Laptop Pro", "category": "electronics", "price": 1299.50, "stock": 50, "rating": 4.7 },
-    { "id": 3, "name": "Wireless Earbuds", "category": "electronics", "price": 149.99, "stock": 200, "rating": 4.3 },
-    { "id": 4, "name": "Gaming Console", "category": "electronics", "price": 499.00, "stock": 75, "rating": 4.6 },
-    { "id": 5, "name": "4K Monitor", "category": "electronics", "price": 399.55, "stock": 80, "rating": 4.4 },
-
-    { "id": 6, "name": "Office Chair", "category": "furniture", "price": 199.99, "stock": 60, "rating": 4.2 },
-    { "id": 7, "name": "Standing Desk", "category": "furniture", "price": 349.00, "stock": 40, "rating": 4.5 },
-    { "id": 8, "name": "Bookshelf", "category": "furniture", "price": 89.99, "stock": 100, "rating": 4.1 },
-    { "id": 9, "name": "Sofa Set", "category": "furniture", "price": 899.00, "stock": 20, "rating": 4.6 },
-    { "id": 10, "name": "Dining Table", "category": "furniture", "price": 599.00, "stock": 25, "rating": 4.3 },
-
-    { "id": 11, "name": "Running Shoes", "category": "apparel", "price": 120.00, "stock": 150, "rating": 4.4 },
-    { "id": 12, "name": "Leather Jacket", "category": "apparel", "price": 250.00, "stock": 35, "rating": 4.7 },
-    { "id": 13, "name": "T-Shirt Pack", "category": "apparel", "price": 45.00, "stock": 300, "rating": 4.2 },
-    { "id": 14, "name": "Jeans", "category": "apparel", "price": 80.00, "stock": 120, "rating": 4.3 },
-    { "id": 15, "name": "Winter Coat", "category": "apparel", "price": 320.00, "stock": 40, "rating": 4.6 }
-  ],
+  {
+    "id": "prod-c3e7d890-001",
+    "name": "Basic Item 1",
+    "category": "electronics",
+    "price": 217.02,
+    "stock": 194,
+    "rating": 4.3
+  },
+  {
+    "id": "prod-c3e7d890-002",
+    "name": "Pro Item 2",
+    "category": "books",
+    "price": 129.82,
+    "stock": 27,
+    "rating": 3.9
+  },
+  {
+    "id": "prod-c3e7d890-003",
+    "name": "Premium Item 3",
+    "category": "sports",
+    "price": 383.62,
+    "stock": 148,
+    "rating": 2.4
+  },
+  {
+    "id": "prod-c3e7d890-004",
+    "name": "Basic Item 4",
+    "category": "books",
+    "price": 290.08,
+    "stock": 121,
+    "rating": 2
+  },
+  {
+    "id": "prod-c3e7d890-005",
+    "name": "Elite Item 5",
+    "category": "home",
+    "price": 175.8,
+    "stock": 83,
+    "rating": 3.2
+  },
+  {
+    "id": "prod-c3e7d890-006",
+    "name": "Premium Item 6",
+    "category": "sports",
+    "price": 88.95,
+    "stock": 79,
+    "rating": 2.6
+  },
+  {
+    "id": "prod-c3e7d890-007",
+    "name": "Basic Item 7",
+    "category": "books",
+    "price": 96.06,
+    "stock": 106,
+    "rating": 4.2
+  },
+  {
+    "id": "prod-c3e7d890-008",
+    "name": "Elite Item 8",
+    "category": "electronics",
+    "price": 407.93,
+    "stock": 98,
+    "rating": 1.1
+  },
+  {
+    "id": "prod-c3e7d890-009",
+    "name": "Pro Item 9",
+    "category": "electronics",
+    "price": 226.79,
+    "stock": 194,
+    "rating": 4.4
+  },
+  {
+    "id": "prod-c3e7d890-010",
+    "name": "Pro Item 10",
+    "category": "electronics",
+    "price": 280.11,
+    "stock": 49,
+    "rating": 1.5
+  },
+  {
+    "id": "prod-c3e7d890-011",
+    "name": "Basic Item 11",
+    "category": "books",
+    "price": 339.08,
+    "stock": 143,
+    "rating": 3.1
+  },
+  {
+    "id": "prod-c3e7d890-012",
+    "name": "Standard Item 12",
+    "category": "sports",
+    "price": 206.1,
+    "stock": 137,
+    "rating": 2.2
+  },
+  {
+    "id": "prod-c3e7d890-013",
+    "name": "Elite Item 13",
+    "category": "home",
+    "price": 421.69,
+    "stock": 29,
+    "rating": 2.9
+  },
+  {
+    "id": "prod-c3e7d890-014",
+    "name": "Pro Item 14",
+    "category": "electronics",
+    "price": 233.64,
+    "stock": 174,
+    "rating": 4.9
+  },
+  {
+    "id": "prod-c3e7d890-015",
+    "name": "Pro Item 15",
+    "category": "sports",
+    "price": 97.58,
+    "stock": 14,
+    "rating": 4.7
+  }
+],
   "aggregations": {
     "electronics": {
       "count": 5,
